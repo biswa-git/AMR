@@ -1,0 +1,4 @@
+E:/AMR/bin/CMakeFiles/AMR.dir
+E:/AMR/bin/CMakeFiles/INSTALL.dir
+E:/AMR/bin/CMakeFiles/ALL_BUILD.dir
+E:/AMR/bin/CMakeFiles/ZERO_CHECK.dir
