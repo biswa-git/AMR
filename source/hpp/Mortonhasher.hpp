@@ -1,6 +1,6 @@
 #include<bitset>
-#include "data_type.hpp"
-#include "constants.hpp"
+#include "DataType.hpp"
+#include "Constants.hpp"
 
 struct HasherParams
 {

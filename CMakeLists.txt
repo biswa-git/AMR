@@ -5,6 +5,7 @@ include_directories(${CMAKE_SOURCE_DIR}/source/hpp)
 add_executable(AMR
 source/cpp/main.cpp
 source/cpp/MortonHasher.cpp
+source/cpp/Stl.cpp
 )
 
 install(TARGETS AMR DESTINATION ${CMAKE_SOURCE_DIR}/exe)
