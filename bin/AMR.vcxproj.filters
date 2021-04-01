@@ -4,6 +4,9 @@
     <ClCompile Include="E:\AMR\source\cpp\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="E:\AMR\source\cpp\Geometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="E:\AMR\source\cpp\MortonHasher.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

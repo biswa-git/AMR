@@ -50,6 +50,7 @@ int main()
     crd.emplace(c);
     crd.emplace(c);
     crd.emplace(d);
+    std::sort(crd.begin(), crd.end());
 
     return 0;
 }
