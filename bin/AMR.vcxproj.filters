@@ -10,9 +10,6 @@
     <ClCompile Include="E:\AMR\source\cpp\MortonHasher.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\AMR\source\cpp\Stl.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="E:\AMR\CMakeLists.txt" />

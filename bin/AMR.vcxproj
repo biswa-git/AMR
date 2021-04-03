@@ -319,7 +319,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="E:\AMR\source\cpp\main.cpp" />
     <ClCompile Include="E:\AMR\source\cpp\Geometry.cpp" />
     <ClCompile Include="E:\AMR\source\cpp\MortonHasher.cpp" />
-    <ClCompile Include="E:\AMR\source\cpp\Stl.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="E:\AMR\bin\ZERO_CHECK.vcxproj">
