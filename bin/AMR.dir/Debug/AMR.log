@@ -1,2 +1,7 @@
-﻿  main.cpp
+﻿  MortonHasher.cpp
+  main.cpp
+E:\AMR\source\cpp\main.cpp(50,30): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\AMR\source\cpp\main.cpp(51,30): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\AMR\source\cpp\main.cpp(52,30): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
   AMR.vcxproj -> E:\AMR\bin\Debug\AMR.exe

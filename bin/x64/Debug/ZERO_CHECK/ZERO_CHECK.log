@@ -1,1 +1,6 @@
 ﻿  Checking Build System
+  CMake is re-running because generate.stamp.list is missing.
+  -- Selecting Windows SDK version 10.0.18362.0 to target Windows 10.0.19041.
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: E:/AMR/bin
